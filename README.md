@@ -28,7 +28,7 @@ Este é um projeto de visualização e manipulação de imagens médicas no form
 
 ---
 
-### 🖼️ **Visualizações**  
+###  **Visualizações**  
 Confira algumas capturas de tela da aplicação:  
 
 --  
@@ -42,7 +42,7 @@ Confira algumas capturas de tela da aplicação:
 
 ---
 
-### 📖 **Como Executar o Projeto**  
+###  **Como Executar o Projeto**  
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/RodrigoPereiraRJ/DicomRenderBrasil.git
@@ -63,7 +63,7 @@ Confira algumas capturas de tela da aplicação:
 
 ---
 
-### ⚠️ **Aviso Importante**  
+###  **Aviso Importante**  
 Este projeto não é voltado para uso médico real e não foi validado para aplicações em hospitais ou para diagnóstico médico. Ele deve ser utilizado apenas para fins de estudo, simulações e testes educacionais.
 
 ---
